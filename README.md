@@ -11,5 +11,6 @@ The company's finance analysts have concluded that annual members are much more 
 Analyzing the company’s historical bike trip data to identify trends into how annual members and casual riders use Cyclistic bikes differently.
 
 ## DATA SOURCE
-The cyclists historical trip dataset can be found here in this [link](https://divvy-tripdata.s3.amazonaws.com/index.html)
+The cyclists historical trip dataset can be found here in this [link](https://divvy-tripdata.s3.amazonaws.com/index.html).
+
 The data has been made avaialable by Motivate International INC. under this [license](https://ride.divvybikes.com/data-license-agreement)
